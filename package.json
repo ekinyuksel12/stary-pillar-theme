@@ -1,8 +1,9 @@
 {
   "name": "earth-theme",
   "displayName": "Earth Theme",
-  "description": "",
+  "description": "Personal Theme for Toprak Ekin Yüksel",
   "version": "0.0.1",
+  "repository": "earth-theme",
   "engines": {
     "vscode": "^1.109.0"
   },
