@@ -1,11 +1,11 @@
 {
-  "name": "earth-theme",
+  "name": "earths-theme",
   "displayName": "Earth's Theme",
   "description": "Simple cozy but modern theme.",
   "version": "1.0.0",
   "publisher": "ekinyuksel12",
   "license": "MIT",
-  "repository": "earth-theme",
+  "repository": "earths-theme",
   "keywords": ["earth", "cozy", "modern", "vibrant", "dark"],
   "icon": "./icon.jpeg",
   "engines": {
