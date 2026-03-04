@@ -1,6 +1,6 @@
-# Earth's Theme
+# Starry Pillar
 
-The Earth's Theme is a visually appealing color theme designed specifically for the Toprak environment. It aims to provide a soothing and harmonious color palette that enhances the coding experience.
+The Starry Pillar Theme is a visually appealing color theme designed specifically for the Toprak environment. It aims to provide a soothing and harmonious color palette that enhances the coding experience.
 
 ## Screenshots
 
@@ -14,7 +14,7 @@ The Earth's Theme is a visually appealing color theme designed specifically for 
 *Editor Full Panels*
 
 ## Setup
-Once installed, you can select the **earths-theme** from your editor's theme settings. Enjoy a fresh and natural coding experience!
+Once installed, you can select the **Starry Pillar** from your editor's theme settings. Enjoy a fresh and natural coding experience!
 
 ## License
 
